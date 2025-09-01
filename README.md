@@ -1,56 +1,58 @@
-# 👋 Hello, I'm Frankline
+# 👋 Hey, I’m Frankline
 
-Welcome to my GitHub! I’m a dedicated **Data Scientist** with a passion for transforming data into practical, meaningful insights. My work is grounded in strong technical skills—especially in **Python** and **SQL**—and a drive to solve real-world problems.
-
----
-
-## 🌟 About Me
-
-- 🎯 Focused on building robust, data-driven solutions that make an impact  
-- 💡 Enjoy exploring data, uncovering trends, and presenting findings in clear, actionable ways  
-- 👨‍💻 Skilled in machine learning, data analysis, automation, and visualization  
-- ⚡ Always learning, adapting, and aiming for excellence
+I turn data into stories that help people make smarter decisions.  
+I’m a **Data Scientist & Data Engineer** who loves digging into data, experimenting with models, and building pipelines that actually work in the real world.  
 
 ---
 
-## 🛠️ Core Skills
+## 🌱 What I Do
 
-- **Programming:** Python, SQL
-- **Data Science:** pandas, NumPy, scikit-learn, matplotlib, seaborn
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Machine Learning:** Regression, classification, clustering, evaluation
-- **Other Tools:** Jupyter, Git/GitHub, data visualization, data cleaning
-
----
-
-## 📊 GitHub Stats
-
-![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frank015940&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank015940&layout=compact&theme=default)
+- Explore messy data and turn it into clear insights  
+- Build machine learning models that solve practical problems  
+- Create automated pipelines for data collection, cleaning, and storage  
+- Work with cloud platforms to make data accessible and scalable  
 
 ---
 
-## 📚 Currently Exploring
+## 🛠️ Tools I Use
 
-- Advanced machine learning techniques
-- MLOps and model deployment
-- Data engineering best practices
-
----
-
-## 📬 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/frank015940) <!-- (Update your link) -->
-- [Email](mailto:your.email@example.com) <!-- (Update your email) -->
+**Languages & Analysis:** Python, SQL  
+**Data & ML:** pandas, NumPy, scikit-learn, matplotlib, seaborn  
+**Databases & Warehouses:** PostgreSQL, MySQL, SQLite, BigQuery  
+**Cloud & Pipelines:** AWS (S3, Lambda, EC2), GCP (BigQuery, Dataflow, Cloud Functions), Airflow  
+**Other:** Jupyter, Git/GitHub, Docker, Data Visualization  
 
 ---
 
-## ✨ Personal Motto
+## 🚀 Projects I’m Proud Of
 
-> “Good data leads to good decisions. Let’s use it wisely.”
+- **Stock Market ETL Pipeline:** Scraped daily stock data, cleaned with Python, stored in **Snowflake**, automated with **Airflow**  
+- **E-commerce Price Tracker:** Scraped Jumia & Amazon prices, stored in SQL, visualized trends in **Looker Studio**  
+- **ML Models for Predictions:** Built regression and classification models to turn business data into actionable decisions  
+
+*(Full details in my repositories!)*  
 
 ---
 
-Thank you for visiting my profile!  
-Feel free to browse my repositories and reach out if you’d like to connect or collaborate.
+## 📚 Currently Learning
 
+- Advanced ML and AI techniques  
+- MLOps and deploying models in the cloud  
+- Real-time data engineering and analytics  
+
+---
+
+## 🤝 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/frank015940)  
+- [Email](muchirifranklin8@gmail.com)  
+
+---
+
+## 💡 Motto
+
+> “Data is only useful when it tells a story. I help it speak clearly.”  
+
+---
+
+![Frankline's GitHub stats](https://github-readme-stats.vercel.app/api?username=frank015940&show_icons=true&theme=radical&count_private=true)
